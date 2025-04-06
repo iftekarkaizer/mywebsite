@@ -383,12 +383,3 @@ footer {
     .work-container {
         flex-direction: column;
     }
-}
-
-/* Specific changes for the message area */
-.contact-form textarea {
-    width: 80%; /* Adjust to your desired width */
-    max-width: 500px; /* Optional: set a maximum width */
-    margin: 0 auto; /* Center the textarea horizontally */
-    display: block; /* Ensure margin auto works */
-    resize: none; /* Disable resizing */
